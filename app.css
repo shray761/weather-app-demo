@@ -1,0 +1,39 @@
+body {
+	background: #f0f0f0;
+}
+
+#container {
+    margin: 0 auto;
+    width: 320px;
+    padding: 10px;
+    border: 1px solid #afafaf;
+    border-radius: 3px;
+}
+
+#content {
+    margin-top: 10px;
+}
+
+#control {
+	text-align: center;
+}
+
+.map {
+	height: 250px;
+	width: 100%;
+}
+
+.error {
+    margin: 3px 0;
+    color: red;
+}
+
+.graph {
+    height: 250px;
+}
+
+.avg-temp {
+    font-weight: bold;
+    text-align: center;
+    margin: 3px 0;
+}
